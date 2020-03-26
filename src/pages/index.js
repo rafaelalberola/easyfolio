@@ -21,6 +21,12 @@ const Hero = styled("div")`
        padding-top: 0em;
     }
 
+    @media(max-width:${dimensions.maxwidthMobile}px) {
+        h1 {
+        font-size: 1.82em;
+        }
+     }
+
     h1 {
         margin-bottom: 1em;
 
