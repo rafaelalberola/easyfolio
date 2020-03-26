@@ -16,8 +16,8 @@ const ButtonContainer = styled("button")`
     transition: background 100ms ease-in-out;
 
     @media(max-width:${dimensions.maxwidthMobile}px) {
-        padding: 0.8em 1.8em;
-        font-size: 1em;
+        padding: 0.5em 1.8em;
+        font-size: 1.2em;
         width: 100%;
     }
 
