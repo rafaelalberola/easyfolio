@@ -156,7 +156,7 @@ const RenderBody = ({ home, projects, meta }) => (
                     uid={project.node._meta.uid}
                 />
             ))}
-            <WorkAction to={"/work"}>
+            <WorkAction to={"/trabajos"}>
                 Ver más trabajos <span>&#8594;</span>
             </WorkAction>
         </Section>
