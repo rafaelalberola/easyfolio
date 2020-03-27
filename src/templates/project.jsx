@@ -40,8 +40,8 @@ const ProjectBody = styled("div")`
     }
 
     .block-img {
-        margin-top: 2.5em;
-        margin-bottom: 2.5em;
+        margin-top: 1em;
+        margin-bottom: 1em;
 
         img {
             width: 100%;
