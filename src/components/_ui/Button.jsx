@@ -17,7 +17,7 @@ const ButtonContainer = styled("button")`
 
     @media(max-width:${dimensions.maxwidthMobile}px) {
         padding: 0.5em 1.8em;
-        font-size: 1.2em;
+        font-size: 1.1em;
         width: 100%;
     }
 
