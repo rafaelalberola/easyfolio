@@ -2,7 +2,7 @@
 
 Diseño sobrio y sencillo desarrollado con [Gatsby v2](https://www.gatsbyjs.org) y [Prismic](https://prismic.io/) para portfolios y blogs.
 
-<img width="1280" alt="prist" src="https://user-images.githubusercontent.com/5288685/63654882-51787e00-c746-11e9-9e9e-2ab823129d93.png">
+<img width="1280" alt="prist" src="https://images.prismic.io/rafaelalberola/795f73bf-8096-4ffd-b223-0903a007824f_Easyfolio-cover-blog.jpg">
 
 
 ### 🖥 [DEMO](http://www.helloimrafa.com)
