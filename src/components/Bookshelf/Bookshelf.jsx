@@ -51,7 +51,7 @@ class Bookshelf extends Component {
                     <div className="Bookshelf__action__container">
                         {expanded && (
                             <p className="Bookshelf__action__message">
-                                Esta lista crece cada poco. ¡Permanece atento! <br />Además, seguro que <strong>coincidimos</strong> en alguno. <br />Cuéntame en cuáles. <span className="emoji--small" role="img" aria-label="emoji">😊</span>
+                                Esta lista crece cada poco. <br /> <strong>¡Permanece atent@!</strong> <span className="emoji--small" role="img" aria-label="emoji">😊</span>
                             </p>
                         )}
                         <Button className="Bookshelf__action__button" category="secondary" onClick={showMoreBooks}>
