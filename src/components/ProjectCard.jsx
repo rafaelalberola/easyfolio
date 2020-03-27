@@ -99,6 +99,10 @@ const ProjectCardBlurb = styled("div")`
     
     p {
         line-height: 1.5;
+        @media(max-width:${dimensions.maxwidthMobile}px) {
+            font-size: 1.1em;
+            line-height: 1.4;
+        }
     }
 
     @media(max-width:${dimensions.maxwidthTablet}px) {
