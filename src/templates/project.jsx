@@ -17,7 +17,7 @@ const ProjectHeroContainer = styled("div")`
     position: relative;
     padding-top: 2.25em;
     margin-bottom: 3.5em;
-    border: solid 1px #dbe4f1ab;
+    border: solid 1px #d8d8d870;
     border-radius: 3px;
 
     img {
@@ -42,7 +42,7 @@ const ProjectBody = styled("div")`
     .block-img {
         margin-top: 2.5em;
         margin-bottom: 2.5em;
-        border: solid 1px #d8d8d8ab;
+        border: solid 1px #d8d8d870;
         border-radius: 3px;
 
         img {
