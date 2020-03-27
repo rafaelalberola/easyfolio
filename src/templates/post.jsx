@@ -15,17 +15,20 @@ const PostHeroContainer = styled("div")`
     flex-direction: column;
     justify-content: flex-end;
     margin-bottom: 3em;
+    border: solid 1px #d8d8d870;
+    border-radius: 3px;
 
     img {
         width: 100%;
+        border-bottom: solid 1px #d8d8d870;
     }
 `
 
 const PostHeroAnnotation = styled("div")`
-    padding-top: 0.25em;
+    padding: 0.25em 1em 0.25em 0;
 
     h6 {
-        text-align: right;
+        text-align: center;
         color: ${colors.grey600};
         font-weight: 400;
         font-size: 0.85rem;
@@ -90,10 +93,12 @@ const PostMetas = styled("div")`
 
 const PostAuthor = styled("div")`
     margin: 0;
+    display: none;
 `
 
 const PostDate = styled("div")`
     margin: 0;
+    display: none;
 `
 
 const Post = ({ post, meta }) => {
