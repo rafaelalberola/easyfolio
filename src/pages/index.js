@@ -23,7 +23,7 @@ const Hero = styled("div")`
 
     @media(max-width:${dimensions.maxwidthMobile}px) {
         h1 {
-        font-size: 1.76em;
+        font-size: 1.70em;
         }
      }
 
