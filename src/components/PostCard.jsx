@@ -8,7 +8,7 @@ import PropTypes from "prop-types";
 
 const PostCardContainer = styled(Link)`
     border: solid 1px #dbe4f1ab;    
-    padding: 3em 2.5em 2.25em 2.5em;
+    padding: 2em 2em 1em 2em;
     border-radius: 3px;
     text-decoration: none;
     color: currentColor;
@@ -56,15 +56,17 @@ const PostMetas = styled("div")`
 
 const PostAuthor = styled("div")`
     margin: 0;
+    display: none;
 `
 
 const PostDate = styled("div")`
     margin: 0;
+    display: none;
 `
 
 const PostDescription = styled("div")`
-    margin-top: 2em;
-    margin-bottom: 4em;
+    margin-top: 1.5em;
+    margin-bottom: 2em;
 
     p:last-of-type {
         margin: 0;
