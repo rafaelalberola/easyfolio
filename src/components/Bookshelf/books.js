@@ -97,10 +97,10 @@ const books = [
         finished: true,
         inProgress: false,
         "tags": [
-            "serie",
+            "película",
         ],
         isFiction: false,
-        genre: "serie",
+        genre: "película",
         coverImg: "https://pics.filmaffinity.com/American_Psycho-503776720-large.jpg",
         summary:
             <div>
@@ -133,10 +133,10 @@ const books = [
         finished: true,
         inProgress: false,
         "tags": [
-            "serie",
+            "película",
         ],
         isFiction: false,
-        genre: "serie",
+        genre: "película",
         coverImg: "https://pics.filmaffinity.com/Mulholland_Drive-308967071-mmed.jpg",
         summary:
             <div>
@@ -168,10 +168,10 @@ const books = [
         finished: true,
         inProgress: false,
         "tags": [
-            "serie",
+            "película",
         ],
         isFiction: false,
-        genre: "serie",
+        genre: "película",
         coverImg: "https://fanart.tv/fanart/movies/274/movieposter/the-silence-of-the-lambs-565af9a63ad67.jpg",
         summary:
             <div>
