@@ -57,6 +57,60 @@ const books = [
         </div>
     },
     {
+        title: "Mr. Robot",
+        author: "Sam Esmail",
+        finished: true,
+        inProgress: false,
+        "tags": [
+            "serie",
+        ],
+        isFiction: false,
+        genre: "serie",
+        coverImg: "https://www.dodmagazine.es/wp-content/uploads/2019/08/mr-robot-temporada-4.jpg",
+        summary:
+            <div>
+                <p role="article">
+                <strong>Elliot Alderson</strong>, un brillante programador con problemas de <strong>ansiedad social</strong>, trabaja como ingeniero de ciberseguridad de día y como justiciero de noche. Su vida da un giro cuando unos <strong>ciberterroristas</strong> lo reclutan.
+            </p>
+            </div>
+    },
+    {
+        title: "Taxi Driver",
+        author: "Martin Scorsese",
+        finished: true,
+        inProgress: false,
+        "tags": [
+            "película",
+        ],
+        isFiction: false,
+        genre: "película",
+        coverImg: "https://pics.filmaffinity.com/Taxi_Driver-559150579-mmed.jpg",
+        summary:
+            <div>
+                <p role="article">
+                Un <strong>veterano de Vietnam</strong> inicia una confrontación violenta con los <strong>proxenetas</strong> que trabajan en las calles de Nueva York.
+            </p>
+            </div>
+    },
+    {
+        title: "American Psycho",
+        author: "Mary Harron",
+        finished: true,
+        inProgress: false,
+        "tags": [
+            "serie",
+        ],
+        isFiction: false,
+        genre: "serie",
+        coverImg: "https://pics.filmaffinity.com/American_Psycho-503776720-large.jpg",
+        summary:
+            <div>
+                <p role="article">
+                En la década de 1980, <strong>Patrick Bateman</strong> es un hombre exitoso y obsesionado por la competencia y por la <strong>perfección material</strong>, quien utiliza los más caros cosméticos masculinos, equipos de gimnasia, solárium y demás maquinaria estética para lograr un cuerpo atlético y bien acicalado, identificador material del <strong>éxito social</strong>.
+            </p>
+            </div>
+    },
+    {
         title: "The Catcher in The Rye",
         author: "J. D. Salinger",
         finished: true,
@@ -75,6 +129,24 @@ const books = [
         </div>
     },
     {
+        title: "Mulholland Drive",
+        author: "David Lynch",
+        finished: true,
+        inProgress: false,
+        "tags": [
+            "serie",
+        ],
+        isFiction: false,
+        genre: "serie",
+        coverImg: "https://pics.filmaffinity.com/Mulholland_Drive-308967071-mmed.jpg",
+        summary:
+            <div>
+                <p role="article">
+                Una <strong>mujer</strong> de cabellos oscuros es abandonada amnésica después de un <strong>accidente automovilístico</strong>. Ella recorre las calles de <strong>Los Ángeles</strong> entes de refugiarse en un departamento. Ahí ella es descubierta por Betty, una rubia del medio oeste que ha llegado a la Ciudad de los Ángeles en busca de fama como una actriz. Juntas, las dos intentan resolver el misterio de la <strong>verdadera identidad de Rita</strong>. La historia está ambientada en un lugar de ensueño, sin tráfico y humo.
+            </p>
+            </div>
+    },
+    {
         title: "Londres",
         author: "United Kingdom",
         finished: true,
@@ -90,6 +162,24 @@ const books = [
             <p role="article">
             <strong>Londres</strong>, la capital de Inglaterra y del <strong>Reino Unido</strong>, es una ciudad del siglo XXI con una historia que se remonta a la época romana. En su centro se alzan el imponente Palacio del Parlamento, la torre del icónico reloj "Big Ben" y la Abadía de Westminster, lugar de las coronaciones monárquicas británicas. Al otro lado del río Támesis, la rueda de observación <strong>London Eye</strong> ofrece vistas panorámicas del complejo cultural South Bank y de toda la ciudad.</p>
         </div>
+    },
+    {
+        title: "The Silence of the Lambs",
+        author: "Jonathan Demme",
+        finished: true,
+        inProgress: false,
+        "tags": [
+            "serie",
+        ],
+        isFiction: false,
+        genre: "serie",
+        coverImg: "https://fanart.tv/fanart/movies/274/movieposter/the-silence-of-the-lambs-565af9a63ad67.jpg",
+        summary:
+            <div>
+                <p role="article">
+                Una <strong>agente en entrenamiento del FBI</strong> busca la ayuda y consejo de un brillante asesino para poder capturar a otro asesino, el doctor <strong>Hannibal Lecter</strong>, un psiquiatra que también es un psicópata violento y <strong>antropófago</strong>.
+            </p>
+            </div>
     },
     {
         title: "LOST",
