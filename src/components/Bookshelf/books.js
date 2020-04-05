@@ -1,6 +1,5 @@
 import React from "react";
-//Help — book API, where r u? GoogleBooks? wip
-//Summaries and images from goodreads.com
+//Summaries and images from various resources.
 
 const books = [
     {
