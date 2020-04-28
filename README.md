@@ -5,7 +5,7 @@ Diseño sobrio y sencillo desarrollado con [Gatsby v2](https://www.gatsbyjs.org)
 <img width="1280" alt="prist" src="https://images.prismic.io/rafaelalberola/795f73bf-8096-4ffd-b223-0903a007824f_Easyfolio-cover-blog.jpg">
 
 
-### 🖥 [DEMO](http://www.helloimrafa.com)
+### 🖥 [DEMO](https://easyfolio.netlify.app/)
 
 ## Características
 
